@@ -21,7 +21,7 @@ function App() {
           </p>
         </div>
         <div className='menu'>
-        <nav id="navbar" class="navbar">
+        <nav id="navbar" className="navbar">
           <ul>
             <li><a href="a">Home</a></li>
             <li><a href="a">About Us</a></li>
@@ -45,8 +45,8 @@ function App() {
 
         <div className='model-list'>
           <h2>Available Models</h2>
-            <button id="button1" class="myButton">Happy Seeder</button>
-            <button id="button2" class="myButton">Bale Grinder and Shredder</button>
+            <button id="button1" className="myButton">Happy Seeder</button>
+            <button id="button2" className="myButton">Bale Grinder and Shredder</button>
 
           <div className='image-container'>
             <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/National_Agro_Happy_Seeder.jpg/1200px-National_Agro_Happy_Seeder.jpg' alt=''></img>
@@ -80,13 +80,13 @@ function App() {
           <a className='book-button' href='machine_booking'>Book a Machine</a>
       </div>
 
-      <footer id="footer" class="footer">
+      <footer id="footer" className="footer">
 
-        <div class="container mt-4">
-          <div class="copyright">
+        <div className="container mt-4">
+          <div className="copyright">
             © Copyright <strong><span>TEAM 11</span></strong>. All Rights Reserved
           </div>
-          <div class="credits">
+          <div className="credits">
             
             Designed by Team 11
           </div>
