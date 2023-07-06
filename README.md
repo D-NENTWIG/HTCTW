@@ -4,8 +4,8 @@ This website was designed as a user-friendly booking platform exclusively for fa
 
 ## Key Features:
 
-Easy-to-use calendar interface for selecting rental dates for the desired equipment.
-Dedicated section to showcase the chosen equipment.
+- Easy-to-use calendar interface for selecting rental dates for the desired equipment.
+- Dedicated section to showcase the chosen equipment.
 
 # Image of website
 
