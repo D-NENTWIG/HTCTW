@@ -5,4 +5,5 @@ Website was a simple booking website intended for farmers in Punjab to rent a va
 
 #Image of webpage
 
-[FarmFresh Rentals.pdf](https://github.com/D-NENTWIG/HTCTW/files/11972269/FarmFresh.Rentals.pdf)
+
+![Uploading localhost_3000_.png…]()
