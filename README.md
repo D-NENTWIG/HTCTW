@@ -1,9 +1,12 @@
-# Was Hosted with Netlify
-# No Longer being Hosted
+# Website No Longer Available
 
-Website was a simple booking website intended for farmers in Punjab to rent a variety of envirnmentally friendly farming equipment as a better alternative to crop burning.
+This website was designed as a user-friendly booking platform exclusively for farmers in Punjab, aiming to provide them with a sustainable solution to crop burning by offering a diverse range of environmentally friendly farming equipment for rent.
 
-# Image of webpage
+## Key Features:
 
+Easy-to-use calendar interface for selecting rental dates for the desired equipment.
+Dedicated section to showcase the chosen equipment.
+
+# Image of website
 
 ![picture of webpage](https://github.com/D-NENTWIG/HTCTW/blob/main/webpage.png?raw=true)
