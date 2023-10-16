@@ -12,10 +12,10 @@ This website was designed as a user-friendly booking platform exclusively for fa
 ![picture of webpage](https://github.com/D-NENTWIG/HTCTW/blob/main/webpage.png?raw=true)
 
 
-#Design Brief
+# Design Brief
 
-[Link to PDF](./Files/Design%20Brief_Team11_Delhi2.pdf)
+[Design PDF](./Files/Design%20Brief_Team11_Delhi2.pdf)
 
-#Innovation Poster
+# Innovation Poster
 
-[Link to PDF](./Files/Delhi%202_Team%2011_Innovation%20Poster.pdf)
+[Poster PDF](./Files/Delhi%202_Team%2011_Innovation%20Poster.pdf)
